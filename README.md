@@ -31,9 +31,7 @@ Step 8 :
 Atlast , free the host and device memory then reset the device and check for results.
 ```
 ## Program:
-## kernel reduceUnrolling8
-## Name : P SYAM TEJ
-## Reg No : 212221240056
+
 ```
 #include "common.h"
 #include <cuda_runtime.h>
